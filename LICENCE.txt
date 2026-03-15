@@ -1,0 +1,13 @@
+# Copyright (c) 2026 unyaunya
+
+# Terms of Service
+
+## Ownership: The copyright of this software belongs to the author (unyaunya).
+
+## Personal Use: You are free to use this software for personal, non-commercial purposes.
+
+## Prohibitions: Modification, reverse engineering, and the distribution of modified versions of this software are strictly prohibited.
+
+## Redistribution: Redistribution or reprinting of this software without explicit permission is prohibited.
+
+## Disclaimer: The author shall not be held liable for any damages or losses incurred through the use of this software.
